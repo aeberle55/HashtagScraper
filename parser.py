@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# Version 1.0
+# @author Austin Eberle
+# @date 1/31/2016
+# Changelog:
+#   1.0 - Initial release
 from BeautifulSoup import BeautifulSoup
 from collections import Counter
 import csv
